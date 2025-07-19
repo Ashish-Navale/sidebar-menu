@@ -34,7 +34,7 @@ Google Fonts (Poppins, Roboto)
 
 ## 🎬 Project Demo
 
-![Demo](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif?raw=true)
+![Project Demo](sidebar_demo.gif)
 
 ---
 
