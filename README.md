@@ -2,8 +2,6 @@
 
 This project is a **responsive and stylish sidebar navigation menu** for a photography-themed website. It uses **HTML and CSS** with Font Awesome icons to create an interactive user interface inspired by modern UI design trends.
 
-![Project Screenshot]( C:\Users\ASHISH\Pictures\Screenshots\Screenshot 2025-07-19 131851.png )
-
 ---
 
 ## 🚀 Features
