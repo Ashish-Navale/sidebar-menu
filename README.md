@@ -43,6 +43,8 @@ Google Fonts (Poppins, Roboto)
 
 ![Demo](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif?raw=true)
 
+---
+
 
 
 
