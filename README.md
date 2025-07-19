@@ -21,7 +21,7 @@ This project is a **responsive and stylish sidebar navigation menu** for a photo
 
 ## 📁 Project Structure
 
-```plaintext
+
 📦 Your-Repository
 ├── projectfile.html        # Main HTML file
 ├── projectfile.css         # CSS styling
