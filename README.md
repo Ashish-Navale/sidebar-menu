@@ -6,6 +6,7 @@ This project is a **responsive and stylish sidebar navigation menu** for a photo
 ## 🎬 Project Demo
 
 ![Demo](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif?raw=true)
+
 ---
 ## 🚀 Features
 
