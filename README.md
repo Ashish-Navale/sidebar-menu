@@ -38,8 +38,8 @@ Google Fonts (Poppins, Roboto)
 
 ## 🎬 Project Demo
 
-![Demo](./!([https://github.com/user-attachments/assets/6d4b7f6f-4140-4b27-b6e0-52d5879d4bac](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif))
-.gif)
+![Demo](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif?raw=true)
+
 
 
 
