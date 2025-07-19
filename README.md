@@ -35,6 +35,7 @@ CSS3
 Font Awesome Icons
 Google Fonts (Poppins, Roboto)
 
+---
 ## 🎬 Project Demo
 
 ![Demo](https://github.com/Ashish-Navale/frontend-sidebar-menu-project/blob/main/sidebar_demo.gif?raw=true)
