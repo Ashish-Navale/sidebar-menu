@@ -17,19 +17,12 @@ This project is a **responsive and stylish sidebar navigation menu** for a photo
 
 ## 📁 Project Structure
 
-
+```plaintext
 📦 Your-Repository
 ├── projectfile.html        # Main HTML file
 ├── projectfile.css         # CSS styling
-├── eb1ba8aa-... .png       # Background image
+├── cameraimahge.png        # Background image
 └── README.md               # This file
-
-✨ Customization
-To change the menu items, edit the <ul> inside .menu in projectfile.html.
-Replace the social media icons or update links as needed.
-To change the background, replace the projectphoto.jpg image.
-
----
 
 ## 🛠️ `Technologies Used`
 HTML5
