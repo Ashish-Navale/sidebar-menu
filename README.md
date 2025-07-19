@@ -2,6 +2,10 @@
 
 This project is a **responsive and stylish sidebar navigation menu** for a photography-themed website. It uses **HTML and CSS** with Font Awesome icons to create an interactive user interface inspired by modern UI design trends.
 
+## 🎬 Project Demo
+
+![Project Demo](sidebar_demo.gif)
+
 ---
 
 ## 🚀 Features
@@ -32,11 +36,7 @@ Google Fonts (Poppins, Roboto)
 
 ---
 
-## 🎬 Project Demo
 
-![Project Demo](sidebar_demo.gif)
-
----
 
 
 
