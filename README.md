@@ -24,11 +24,11 @@ This project is a stylish and responsive sidebar navigation menu built using **H
 - Fully customizable for any theme (currently set for Photography)
 
 ---
-'''
+```
 ## 🔧 File Structure
 
 project/
 ├── projectfile.html # Main HTML file
 ├── projectfile.css # Styling and layout
 └── assets/
-└── projectphoto.jpg # Background image used in the main layout '''
+└── projectphoto.jpg # Background image used in the main layout ```
